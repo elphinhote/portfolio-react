@@ -1,0 +1,64 @@
+/* OVERALL STYLE CHANGES */
+body {
+  background-color: rgb(211, 211, 211);
+}
+
+.nav-bar-name-background {
+  font-size: 20pt;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  background-color: rgb(89, 169, 170);
+  padding: 15px;
+}
+
+.jumbotron {
+  background-color: white;
+}
+
+.display-4 {
+  font-size: 20pt;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(89, 170, 119);
+}
+
+/* ABOUT ME SPECIFIC STYLING */
+.profile-pic {
+  max-height: 275px;
+  float: left;
+  margin: 0 20px 10px 0;
+}
+
+
+/* PORTFOLIO SPECIFIC STYLING */
+.card {
+  margin: 50px;
+  width: 18rem;
+}
+
+.card-body {
+  background-color: rgb(89, 170, 165);
+}
+
+.card-text {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.github-link {
+  color: lightgrey;
+  margin-right: 7%;
+}
+
+.deployed-app-link{
+  color: rgb(255, 255, 140);
+}
+
+/* CONTACT SPECIFIC STYLING */
+.submit-btn {
+  background-color:rgb(49, 146, 140);
+  color: white;
+}
+/* None */
