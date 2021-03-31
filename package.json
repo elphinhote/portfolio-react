@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
+    "gh-pages": "^3.1.0",
     "node": "^15.12.0",
     "server.js": "^1.0.0"
   },
@@ -21,5 +22,5 @@
   "bugs": {
     "url": "https://github.com/elphinhote/Portfolio-React/issues"
   },
-  "homepage": "https://github.com/elphinhote/Portfolio-React#readme"
+  "homepage": "https://github.com/elphinhote/Portfolio-React"
 }
