@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elphinhote/Portfolio-2.git"
+    "url": "git+ https://github.com/elphinhote/Portfolio-React.git"
   },
   "author": "Eva Wang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elphinhote/Portfolio-2/issues"
+    "url": "https://github.com/elphinhote/Portfolio-React/issues"
   },
-  "homepage": "https://github.com/elphinhote/Portfolio-2#readme"
+  "homepage": "https://github.com/elphinhote/Portfolio-React#readme"
 }
