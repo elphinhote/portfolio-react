@@ -24,7 +24,7 @@ The Budget Tracker application allows for offline access and functionality.
 The purpose and function is to show how to add expenses and deposits to the budget tracker with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
 ## Installation Instructions
-Clone or download the repository, and install React with dependencies.
+Clone or download the repository, and install React (npx-create-react-app) with dependencies.
 
 ## Usage
  The application is deployed with Heroku link below. 
@@ -36,7 +36,9 @@ Clone or download the repository, and install React with dependencies.
 
 ## Technologies Used
 
-* React, React-Router-Dom, React-Script 
+* React 
+* React-Router-Dom 
+* React-Script 
 * NPM
 * Heroku
 
