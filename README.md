@@ -3,8 +3,11 @@
 # Instructions
 
 
-* Updated Portfolio
-
+* Updated Portfolio with 
+* a Project title
+* Link to the deployed version
+* Link to the GitHub repository
+* GIF or screenshot of the deployed application
 * Using React
 
 
@@ -22,12 +25,11 @@ The Budget Tracker application allows for offline access and functionality.
 The purpose and function is to show how to add expenses and deposits to the budget tracker with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
 ## Installation Instructions
-Clone or download the repository, and install node.js, npm install with dependencies.
+Clone or download the repository, and install React with dependencies.
 
 ## Usage
- The application is invoked by using the following
-"node server.js" command.
-Run app on node server.js, and deploy to localhost:3000 or deploy with Heroku link below. 
+ The application is invoked by using npm start
+ and deploys to localhost:3000 or deploy with Heroku link below. 
 
 
 ![Budget App](https://user-images.githubusercontent.com/65749636/111860866-91deb480-8907-11eb-8fd9-e81daf2a8468.PNG)
@@ -38,7 +40,7 @@ Run app on node server.js, and deploy to localhost:3000 or deploy with Heroku li
 * react
 * react-dom
 * react-router-dom
-* reaact-scripts
+* react-scripts
 * Heroku
 
 ## License
