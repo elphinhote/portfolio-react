@@ -2,13 +2,12 @@
 
 # Instructions
 
-
-* The Updated Portfolio includes a Project title
-* Homework Titles
-* Links to the deployed versions
+* The Updated Portfolio includes recent Project title
+* Homework titles
+* Link to deployed version
 * Link to the GitHub repository
 * GIF or screenshot of the deployed application
-* Using React
+* Uses React
 
 
 ## Table of Contents
