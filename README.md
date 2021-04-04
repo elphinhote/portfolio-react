@@ -3,9 +3,9 @@
 # Instructions
 
 
-* Updated Portfolio with 
-* a Project title
-* Link to the deployed version
+* The Updated Portfolio includes a Project title
+* Homework Titles
+* Links to the deployed versions
 * Link to the GitHub repository
 * GIF or screenshot of the deployed application
 * Using React
