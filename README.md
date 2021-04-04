@@ -27,19 +27,17 @@ The purpose and function is to show how to add expenses and deposits to the budg
 Clone or download the repository, and install React with dependencies.
 
 ## Usage
- The application is invoked by using npm start
- and deploys to localhost:3000 or deploy with Heroku link below. 
+ The application is deployed with Heroku link below. 
 
 
-![Budget App](https://user-images.githubusercontent.com/65749636/111860866-91deb480-8907-11eb-8fd9-e81daf2a8468.PNG)
+![Portfolio Page](https://user-images.githubusercontent.com/65749636/113520037-2d496980-9545-11eb-9f4b-20e55f0b6ac2.png)
+
 
 
 ## Technologies Used
 
-* react
-* react-dom
-* react-router-dom
-* react-scripts
+* React, React-Router-Dom, React-Script 
+* NPM
 * Heroku
 
 ## License
