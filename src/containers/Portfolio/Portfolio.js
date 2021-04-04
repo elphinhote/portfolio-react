@@ -13,23 +13,23 @@ class Portfolio extends Component {
             <div className="column">
               <div className="card">
                 <img
-                  src="./images/portfolio-images/password-generator.png"
+                  src="./images/portfolio-images/pubcrawl.png"
                   className="card-img-top"
-                  alt="password generator screenshot"
+                  alt="pubcrawl"
                 />
                 <div className="card-body text-center">
-                  <p className="card-text"> Password Generator </p>
+                  <p className="card-text"> PubSpace </p>
                   <a
                     className="github-link"
                     target="_blank"
-                    href="https://github.com/SamSherrill/3rd-homework"
+                    href="https://github.com/elphinhote/PubCrawl"
                   >
                     GitHub Repo{" "}
                   </a>
                   <a
                     className="deployed-app-link"
                     target="_blank"
-                    href="https://samsherrill.github.io/3rd-homework/"
+                    href="https://pub-space.herokuapp.com/login"
                   >
                     Deployed App{" "}
                   </a>
@@ -39,23 +39,23 @@ class Portfolio extends Component {
             <div className="column">
               <div className="card">
                 <img
-                  src="./images/portfolio-images/coronavirus-tracker.png"
-                  className="card-img-top"
-                  alt="coronavirus tracker screenshot"
+                  src="./images/portfolio-images/fitnesstracker.png"
+                  class="card-img-top"
+                  alt="fitness tracker"
                 />
                 <div className="card-body text-center">
-                  <p className="card-text"> Coronavirus Tracker </p>
+                  <p className="card-text"> Fitness Tracker </p>
                   <a
                     className="github-link"
                     target="_blank"
-                    href="https://github.com/SamSherrill/covid-19-info-tracker"
+                    href="https://github.com/elphinhote/workout-tracker"
                   >
                     GitHub Repo{" "}
                   </a>
                   <a
                     className="deployed-app-link"
                     target="_blank"
-                    href="https://samsherrill.github.io/covid-19-info-tracker/"
+                    href="https://mighty-fortress-74552.herokuapp.com/"
                   >
                     Deployed App{" "}
                   </a>
@@ -70,14 +70,14 @@ class Portfolio extends Component {
                 <img
                   src=".images/portfolio-images/eat-da-burger.jpg"
                   className="card-img-top"
-                  alt="Eat-Da-Burger screenshot"
+                  alt="Eat-Da-Burger"
                 />
                 <div className="card-body text-center">
                   <p className="card-text"> Eat-Da-Burger </p>
                   <a
                     className="github-link"
                     target="_blank"
-                    href="https://github.com/SamSherrill/13th-homework"
+                    href="https://github.com/elphinhote/eat-da-burger"
                   >
                     GitHub Repo{" "}
                   </a>

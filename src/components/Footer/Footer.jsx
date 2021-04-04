@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="two-toned-footer-color"></div>
       <p className="text-muted text-muted-footer text-center">
-        &copy; Copyright 2020 Sam Sherrill
+         Contact Info: Eva Wang @ elphinhote@yahoo.com
       </p>
     </footer>
   );
