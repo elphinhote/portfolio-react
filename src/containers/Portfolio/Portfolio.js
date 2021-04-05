@@ -13,7 +13,7 @@ class Portfolio extends Component {
             <div className="column">
               <div className="card">
                 <img
-                  src="./images/portfolio-images/pubcrawl.png"
+                  src="/images/portfolio-images/pubcrawl.png"
                   className="card-img-top"
                   alt="pubcrawl"
                 />
@@ -39,7 +39,7 @@ class Portfolio extends Component {
             <div className="column">
               <div className="card">
                 <img
-                  src="./images/portfolio-images/fitnesstracker.png"
+                  src="/images/portfolio-images/fitnesstracker.png"
                   class="card-img-top"
                   alt="fitness tracker"
                 />
@@ -68,7 +68,7 @@ class Portfolio extends Component {
             <div className="column">
               <div className="card">
                 <img
-                  src=".images/portfolio-images/eatdaburger.png"
+                  src="images/portfolio-images/eatdaburger.png"
                   className="card-img-top"
                   alt="Eat-Da-Burger"
                 />
