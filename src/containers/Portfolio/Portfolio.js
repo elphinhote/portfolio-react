@@ -68,7 +68,7 @@ class Portfolio extends Component {
             <div className="column">
               <div className="card">
                 <img
-                  src=".images/portfolio-images/eat-da-burger.jpg"
+                  src=".images/portfolio-images/eatdaburger.png"
                   className="card-img-top"
                   alt="Eat-Da-Burger"
                 />
