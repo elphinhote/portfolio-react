@@ -31,6 +31,7 @@ Clone or download the repository, and install React (npx-create-react-app) with 
 
 
 ![Portfolio Page](https://user-images.githubusercontent.com/65749636/113520037-2d496980-9545-11eb-9f4b-20e55f0b6ac2.png)
+![image](https://user-images.githubusercontent.com/65749636/113534955-ee3c0800-9586-11eb-8c26-c717d628ecf4.png)
 
 
 
@@ -57,4 +58,4 @@ Email: [elphinhote@yahoo.com](elphinhote@yahoo.com)
 
 Github: https://github.com/elphinhote/portfolio-react/
 
-Deployed App: https://budgeting-tracking.herokuapp.com/
+Deployed App: Heroku app could not deploy need to work on static server.
