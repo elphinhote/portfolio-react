@@ -20,8 +20,8 @@
 * [Questions](#questions)
 
 ## Description
-The Budget Tracker application allows for offline access and functionality.
-The purpose and function is to show how to add expenses and deposits to the budget tracker with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+The React portfolio has all the recent updates of project and homework assignments.
+
 
 ## Installation Instructions
 Clone or download the repository, and install React (npx-create-react-app) with dependencies.
