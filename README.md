@@ -57,4 +57,4 @@ Email: [elphinhote@yahoo.com](elphinhote@yahoo.com)
 
 Github: https://github.com/elphinhote/portfolio-react/
 
-Deployed App: https://budgeting-tracking.herokuapp.com/
+Deployed App: Heroku app could not deploy need to work on static server.
