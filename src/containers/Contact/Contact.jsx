@@ -15,7 +15,7 @@ class Contact extends Component {
                 type="email"
                 className="form-control"
                 id="exampleFormControlInput1"
-                placeholder="Jane Smith"
+                placeholder="Jane Austen"
               />
             </div>
             <div className="form-group">
